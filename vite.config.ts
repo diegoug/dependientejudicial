@@ -12,7 +12,6 @@ export default defineConfig({
       input: 'index.html',
     },
     sourcemap: false,
-    minify: 'terser',
     target: 'es2015',
   },
 });
