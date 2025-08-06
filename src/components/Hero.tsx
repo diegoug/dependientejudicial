@@ -3,7 +3,7 @@ import { Brain, ArrowRight, Shield, Zap, Clock } from 'lucide-react';
 
 const Hero = () => {
   return (
-    <section className="bg-gradient-to-br from-blue-50 to-white py-16 lg:py-28">
+    <section className="bg-gradient-to-br from-blue-50 to-white py-16 lg:py-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="text-center lg:text-left">
