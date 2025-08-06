@@ -44,22 +44,18 @@ const PreLaunchSection = () => {
             Sé parte del grupo exclusivo de profesionales que revolucionarán su práctica legal con IA.
           </p>
           
-          {/* Progress indicator */}
-          <div className="bg-white rounded-2xl p-6 shadow-xl max-w-2xl mx-auto mb-12">
-            <h3 className="text-lg font-semibold text-gray-900 mb-4">Buscamos 100 testers para la beta privada</h3>
-            <div className="w-full bg-gray-200 rounded-full h-4 mb-4">
-              <div className="bg-blue-600 h-4 rounded-full w-0 transition-all duration-1000" style={{width: '0%'}}></div>
-            </div>
-            <div className="grid grid-cols-2 gap-6 text-center">
-              <div>
-                <div className="text-2xl font-bold text-blue-900">0</div>
-                <div className="text-sm text-gray-600">Registrados</div>
-              </div>
-              <div>
-                <div className="text-2xl font-bold text-green-600">100</div>
-                <div className="text-sm text-gray-600">Meta objetivo</div>
-              </div>
-            </div>
+          {/* Direct CTA to early access form */}
+          <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl p-8 shadow-xl max-w-2xl mx-auto mb-12 text-white">
+            <h3 className="text-xl font-bold mb-4">🚀 ¿Listo para ser pionero?</h3>
+            <p className="text-blue-100 mb-6">
+              Únete al grupo exclusivo de profesionales que tendrán acceso anticipado a la herramienta que revolucionará el sector legal.
+            </p>
+            <a 
+              href="#" 
+              className="inline-block bg-white text-blue-900 px-8 py-4 rounded-lg hover:bg-gray-100 transition-all transform hover:scale-105 font-bold text-lg shadow-lg"
+            >
+              SOLICITAR ACCESO ANTICIPADO
+            </a>
           </div>
         </div>
 
