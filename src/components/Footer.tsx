@@ -43,7 +43,16 @@ const Footer = () => {
               <li><a href="#como-funciona" className="text-gray-300 hover:text-white transition-colors">Cómo funciona</a></li>
               <li><a href="#acceso-anticipado" className="text-gray-300 hover:text-white transition-colors">Acceso Anticipado</a></li>
               {/* <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Demo</a></li> */}
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Programa Beta</a></li>
+              <li>
+                <a
+                  href="https://forms.gle/e2SF7fw1ZpWgF9F68"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-300 hover:text-white transition-colors"
+                >
+                  Programa Beta
+                </a>
+              </li>
             </ul>
           </div>
 

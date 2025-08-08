@@ -115,7 +115,12 @@ const ValueSection = () => {
                 <span className="text-blue-100">Soporte prioritario</span>
               </div>
             </div>
-            <a href="#" className="inline-block bg-amber-500 text-white px-8 py-4 rounded-lg hover:bg-amber-400 transition-all transform hover:scale-105 font-semibold shadow-lg">
+            <a
+              href="https://forms.gle/e2SF7fw1ZpWgF9F68"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-amber-500 text-white px-8 py-4 rounded-lg hover:bg-amber-400 transition-all transform hover:scale-105 font-semibold shadow-lg"
+            >
               Solicitar acceso anticipado
             </a>
           </div>

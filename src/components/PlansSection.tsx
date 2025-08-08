@@ -51,7 +51,9 @@ const PreLaunchSection = () => {
               Únete al grupo exclusivo de profesionales que tendrán acceso anticipado a la herramienta que revolucionará el sector legal.
             </p>
             <a 
-              href="#" 
+              href="https://forms.gle/e2SF7fw1ZpWgF9F68"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-block bg-white text-blue-900 px-8 py-4 rounded-lg hover:bg-gray-100 transition-all transform hover:scale-105 font-bold text-lg shadow-lg"
             >
               SOLICITAR ACCESO ANTICIPADO
@@ -122,7 +124,9 @@ const PreLaunchSection = () => {
           </div>
 
           <a 
-            href="#" 
+            href="https://forms.gle/e2SF7fw1ZpWgF9F68"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block bg-gradient-to-r from-amber-500 to-orange-500 text-white px-12 py-6 rounded-xl hover:from-amber-400 hover:to-orange-400 transition-all transform hover:scale-105 font-bold text-xl shadow-2xl"
           >
             🚀 SOLICITAR ACCESO ANTICIPADO

@@ -23,10 +23,15 @@ const Hero = () => {
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-12">
-              <button className="bg-blue-900 text-white px-8 py-4 rounded-lg hover:bg-blue-800 transition-all transform hover:scale-105 font-semibold text-lg flex items-center justify-center space-x-2 shadow-xl">
+              <a
+                href="https://forms.gle/e2SF7fw1ZpWgF9F68"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-blue-900 text-white px-8 py-4 rounded-lg hover:bg-blue-800 transition-all transform hover:scale-105 font-semibold text-lg flex items-center justify-center space-x-2 shadow-xl"
+              >
                 <span>Solicitar acceso anticipado</span>
                 <ArrowRight className="h-5 w-5" />
-              </button>
+              </a>
                {/* <button className="border-2 border-blue-900 text-blue-900 px-8 py-4 rounded-lg hover:bg-blue-900 hover:text-white transition-all font-semibold text-lg">
                  Ver Demo
                </button> */}

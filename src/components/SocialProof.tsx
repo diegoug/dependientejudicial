@@ -42,7 +42,12 @@ const SocialProof = () => {
               <p className="text-blue-800 font-semibold">
                 🎯 ¿Quieres ser uno de los primeros en compartir tu experiencia?
               </p>
-              <a href="#" className="inline-block mt-4 bg-blue-900 text-white px-6 py-3 rounded-lg hover:bg-blue-800 transition-all font-semibold">
+              <a
+                href="https://forms.gle/e2SF7fw1ZpWgF9F68"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block mt-4 bg-blue-900 text-white px-6 py-3 rounded-lg hover:bg-blue-800 transition-all font-semibold"
+              >
                 Solicitar acceso anticipado
               </a>
             </div>

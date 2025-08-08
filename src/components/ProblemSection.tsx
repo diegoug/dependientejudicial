@@ -73,9 +73,14 @@ const ProblemSection = () => {
             <div className="bg-gradient-to-r from-amber-50 to-red-50 rounded-lg p-4 mb-6 border-l-4 border-amber-500">
               <p className="text-amber-800 font-semibold">⏰ Acceso gradual durante 2025</p>
             </div>
-            <button className="bg-gradient-to-r from-blue-900 to-blue-800 text-white px-8 py-4 rounded-lg hover:from-blue-800 hover:to-blue-700 transition-all transform hover:scale-105 font-semibold text-lg shadow-lg">
+            <a
+              href="https://forms.gle/e2SF7fw1ZpWgF9F68"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-gradient-to-r from-blue-900 to-blue-800 text-white px-8 py-4 rounded-lg hover:from-blue-800 hover:to-blue-700 transition-all transform hover:scale-105 font-semibold text-lg shadow-lg"
+            >
               Solicitar acceso anticipado
-            </button>
+            </a>
           </div>
         </div>
 
