@@ -49,24 +49,26 @@ const SocialProof = () => {
           </div>
         </div>
 
-        {/* Placeholder Client Logos */}
-        <div className="text-center">
-          <h3 className="text-xl font-semibold text-gray-900 mb-8">
-            Próximamente: logos de despachos participantes
-          </h3>
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8 items-center">
-            {logoPlaceholders.map((logo, index) => (
-              <div key={index} className="bg-white rounded-lg p-4 shadow-md opacity-40">
-                <div className="text-gray-400 font-medium text-sm text-center">
-                  {logo}
+        {/*
+          Placeholder Client Logos (hidden as requested)
+          <div className="text-center">
+            <h3 className="text-xl font-semibold text-gray-900 mb-8">
+              Próximamente: logos de despachos participantes
+            </h3>
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8 items-center">
+              {logoPlaceholders.map((logo, index) => (
+                <div key={index} className="bg-white rounded-lg p-4 shadow-md opacity-40">
+                  <div className="text-gray-400 font-medium text-sm text-center">
+                    {logo}
+                  </div>
                 </div>
-              </div>
-            ))}
+              ))}
+            </div>
+            <p className="text-sm text-gray-500 mt-6">
+              Los logos se activarán cuando las firmas acepten aparecer públicamente
+            </p>
           </div>
-          <p className="text-sm text-gray-500 mt-6">
-            Los logos se activarán cuando las firmas acepten aparecer públicamente
-          </p>
-        </div>
+        */}
 
         {/* Trust Badges */}
         <div className="mt-16 flex justify-center items-center space-x-8 text-sm text-gray-600">

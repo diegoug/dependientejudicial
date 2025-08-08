@@ -16,7 +16,7 @@ const Header = () => {
           </div>
           
           <nav className="hidden md:flex space-x-8">
-            <a href="#" className="text-gray-700 hover:text-blue-900 transition-colors">Demo</a>
+            {/* <a href="#" className="text-gray-700 hover:text-blue-900 transition-colors">Demo</a> */}
             <a href="#acceso-anticipado" className="text-gray-700 hover:text-blue-900 transition-colors">Acceso Anticipado</a>
           </nav>
           
@@ -37,7 +37,7 @@ const Header = () => {
         {isMenuOpen && (
           <div className="md:hidden py-4 border-t">
             <nav className="flex flex-col space-y-4">
-              <a href="#" className="text-gray-700 hover:text-blue-900 transition-colors">Demo</a>
+              {/* <a href="#" className="text-gray-700 hover:text-blue-900 transition-colors">Demo</a> */}
               <a href="#acceso-anticipado" className="text-gray-700 hover:text-blue-900 transition-colors">Acceso Anticipado</a>
               <a href="#" className="bg-gradient-to-r from-blue-900 to-blue-800 text-white px-6 py-2 rounded-lg hover:from-blue-800 hover:to-blue-700 transition-all font-medium w-full text-center">
                 Solicitar Acceso

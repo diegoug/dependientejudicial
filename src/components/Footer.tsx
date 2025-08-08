@@ -42,7 +42,7 @@ const Footer = () => {
               <li><a href="#beneficios" className="text-gray-300 hover:text-white transition-colors">Beneficios</a></li>
               <li><a href="#como-funciona" className="text-gray-300 hover:text-white transition-colors">Cómo funciona</a></li>
               <li><a href="#acceso-anticipado" className="text-gray-300 hover:text-white transition-colors">Acceso Anticipado</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Demo</a></li>
+              {/* <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Demo</a></li> */}
               <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Programa Beta</a></li>
             </ul>
           </div>

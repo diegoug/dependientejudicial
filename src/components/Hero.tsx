@@ -27,9 +27,9 @@ const Hero = () => {
                 <span>Solicitar acceso anticipado</span>
                 <ArrowRight className="h-5 w-5" />
               </button>
-              <button className="border-2 border-blue-900 text-blue-900 px-8 py-4 rounded-lg hover:bg-blue-900 hover:text-white transition-all font-semibold text-lg">
-                Ver Demo
-              </button>
+               {/* <button className="border-2 border-blue-900 text-blue-900 px-8 py-4 rounded-lg hover:bg-blue-900 hover:text-white transition-all font-semibold text-lg">
+                 Ver Demo
+               </button> */}
             </div>
             
             <div className="flex items-center justify-center lg:justify-start space-x-8 text-sm text-gray-600 mb-8">
