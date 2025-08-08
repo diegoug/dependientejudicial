@@ -19,7 +19,7 @@ const Hero = () => {
             <p className="text-xl lg:text-2xl text-gray-700 mb-8 leading-relaxed">
               Redacta documentos <span className="text-amber-600 font-semibold">10× más rápido</span>, sin errores repetitivos.
               <br />
-              <span className="text-blue-900 font-bold">Lanzamiento progresivo · plazas limitadas a los primeros interesados</span>
+              <span className="text-blue-900 font-bold">Acceso gradual durante 2025 · plazas limitadas</span>
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-12">

@@ -71,7 +71,7 @@ const ProblemSection = () => {
               Sé de los primeros en probar la beta privada de la solución.
             </p>
             <div className="bg-gradient-to-r from-amber-50 to-red-50 rounded-lg p-4 mb-6 border-l-4 border-amber-500">
-              <p className="text-amber-800 font-semibold">⏰ Apertura de beta: Febrero 2025</p>
+              <p className="text-amber-800 font-semibold">⏰ Acceso gradual durante 2025</p>
             </div>
             <button className="bg-gradient-to-r from-blue-900 to-blue-800 text-white px-8 py-4 rounded-lg hover:from-blue-800 hover:to-blue-700 transition-all transform hover:scale-105 font-semibold text-lg shadow-lg">
               Solicitar acceso anticipado

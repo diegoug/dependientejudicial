@@ -7,7 +7,7 @@ const FAQSection = () => {
   const faqs = [
     {
       question: "¿Cuándo estará disponible Dependiente Judicial?",
-      answer: "El lanzamiento de la beta privada está programado para febrero 2025. Los usuarios del acceso anticipado tendrán acceso a la plataforma antes del lanzamiento público para probar todas las funcionalidades."
+      answer: "El acceso anticipado se otorgará de forma gradual durante 2025. Iremos habilitando grupos por etapas para garantizar una experiencia óptima."
     },
     {
       question: "¿El acceso anticipado tiene algún costo?",
@@ -27,7 +27,7 @@ const FAQSection = () => {
     },
     {
       question: "¿Cuántas plazas hay realmente?",
-      answer: "Estamos abriendo la beta a un número reducido de profesionales para testar la herramienta en entornos reales. Esto nos permite garantizar una experiencia de calidad, soporte personalizado y poder incorporar efectivamente el feedback de cada usuario."
+      answer: "La beta privada se abrirá a un número reducido de profesionales y el acceso será escalonado durante 2025 para asegurar calidad y soporte personalizado."
     },
     {
       question: "¿Puedo cancelar mi registro de acceso anticipado?",

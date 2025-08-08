@@ -129,7 +129,7 @@ const PreLaunchSection = () => {
           </a>
           
           <p className="text-blue-200 text-sm mt-6">
-            ⏰ Apertura de beta: Febrero 2025
+            ⏰ Acceso gradual durante 2025
           </p>
         </div>
 

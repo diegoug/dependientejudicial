@@ -35,8 +35,8 @@ const SocialProof = () => {
               Próximamente: experiencias de nuestros beta testers
             </h3>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Una vez iniciada la beta privada, aquí compartiremos las experiencias reales y testimonios 
-              de los profesionales del derecho que están probando Dependiente Judicial.
+              Durante 2025 compartiremos aquí experiencias reales de los profesionales del derecho que
+              vayan recibiendo acceso anticipado de forma gradual.
             </p>
             <div className="mt-8 bg-blue-50 rounded-lg p-6">
               <p className="text-blue-800 font-semibold">
