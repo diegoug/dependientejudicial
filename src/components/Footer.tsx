@@ -19,7 +19,7 @@ const Footer = () => {
             <p className="text-gray-300 mb-6 leading-relaxed">
               Tu asistente legal con inteligencia artificial. Acelera la redacción de documentos legales y mejora tu productividad profesional.
             </p>
-            <div className="flex space-x-4">
+            {/* <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-amber-400 transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
@@ -32,7 +32,7 @@ const Footer = () => {
               <a href="#" className="text-gray-400 hover:text-amber-400 transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
-            </div>
+            </div> */}
           </div>
 
           {/* Product Links */}
@@ -57,7 +57,7 @@ const Footer = () => {
           </div>
 
           {/* Support Links */}
-          <div>
+          {/* <div>
             <h3 className="text-lg font-semibold mb-6">Soporte</h3>
             <ul className="space-y-4">
               <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Centro de ayuda</a></li>
@@ -66,7 +66,7 @@ const Footer = () => {
               <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Estado del servicio</a></li>
               <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Contactar soporte</a></li>
             </ul>
-          </div>
+          </div> */}
 
           {/* Contact Info */}
           <div>
@@ -86,7 +86,7 @@ const Footer = () => {
               </li>
             </ul>
             
-            <div className="mt-8">
+            {/* <div className="mt-8">
               <h4 className="font-semibold mb-4">Newsletter</h4>
               <div className="flex">
                 <input
@@ -98,7 +98,7 @@ const Footer = () => {
                   Suscribir
                 </button>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
 
@@ -107,12 +107,12 @@ const Footer = () => {
             <div className="text-gray-400 text-sm mb-4 lg:mb-0">
               © {currentYear} Dependiente Judicial. Todos los derechos reservados.
             </div>
-            <div className="flex space-x-6 text-sm">
+            {/* <div className="flex space-x-6 text-sm">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">Términos de servicio</a>
               <a href="#" className="text-gray-400 hover:text-white transition-colors">Política de privacidad</a>
               <a href="#" className="text-gray-400 hover:text-white transition-colors">Cookies</a>
               <a href="#" className="text-gray-400 hover:text-white transition-colors">Aviso legal</a>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

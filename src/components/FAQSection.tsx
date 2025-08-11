@@ -33,10 +33,10 @@ const FAQSection = () => {
       question: "¿Puedo cancelar mi registro de acceso anticipado?",
       answer: "Absolutamente. Puedes cancelar tu registro en cualquier momento sin penalizaciones. No hay compromisos hasta que decidas continuar usando la plataforma después del período de prueba."
     },
-    {
+    /* {
       question: "¿Cómo se protegen mis datos durante la beta?",
       answer: "Implementamos los más altos estándares de seguridad desde la fase beta: cifrado SSL, cumplimiento RGPD, servidores seguros con cifrado AES-256 y políticas estrictas de privacidad. Tus datos nunca se comparten con terceros."
-    }
+    } */
   ];
 
   const toggleFAQ = (index: number) => {

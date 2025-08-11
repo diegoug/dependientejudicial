@@ -38,7 +38,7 @@ const Hero = () => {
             </div>
             
             <div className="flex items-center justify-center lg:justify-start space-x-8 text-sm text-gray-600 mb-8">
-              <div className="flex items-center space-x-2">
+              {/* <div className="flex items-center space-x-2">
                 <Shield className="h-4 w-4 text-green-600" />
                 <span>RGPD compliant</span>
               </div>
@@ -49,7 +49,7 @@ const Hero = () => {
               <div className="flex items-center space-x-2">
                 <Clock className="h-4 w-4 text-blue-600" />
                 <span>SSL Certificado</span>
-              </div>
+              </div> */}
             </div>
           </div>
           

@@ -76,7 +76,7 @@ const SocialProof = () => {
         */}
 
         {/* Trust Badges */}
-        <div className="mt-16 flex justify-center items-center space-x-8 text-sm text-gray-600">
+        {/* <div className="mt-16 flex justify-center items-center space-x-8 text-sm text-gray-600">
           <div className="flex items-center space-x-2">
             <div className="w-4 h-4 bg-green-500 rounded-full"></div>
             <span>SSL Certificado</span>
@@ -89,7 +89,7 @@ const SocialProof = () => {
             <div className="w-4 h-4 bg-purple-500 rounded-full"></div>
             <span>Datos Cifrados AES-256</span>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
